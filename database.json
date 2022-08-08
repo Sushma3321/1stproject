@@ -1,0 +1,17 @@
+{
+        "user": [
+                {
+                        "username": "sushma",
+                        "password": "sushma@123",
+                        "profile": {
+                                "descriprtion": [
+                                        "hello my name is",
+                                        "sushma"
+                                ],
+                                "dob": "9121998",
+                                "hobbies": "coding",
+                                "gender": "female"
+                        }
+                }
+        ]
+}
